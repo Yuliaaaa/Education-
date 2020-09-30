@@ -1,0 +1,22 @@
+print("Hello Yulia")
+
+# if-else construction
+
+#a = input("Enter number:")
+#print(type(a))
+#a = int(a)
+#3if a > 100:
+ #   print("Good!")
+  #  s = str(a)
+#if a < 0 and a < 100:
+ #   print("OK")
+#else:
+ #   print("Too small number") #
+
+s = input ("Enter string:")
+if s == "Hi":
+     print("Hello!")
+print ("Goodbuy")
+
+x = int(int)
+

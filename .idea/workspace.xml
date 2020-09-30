@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4556a78b-1a32-4a56-819f-5d4028677390" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/filefortest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/newfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,121 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager" selected="Python.homework3">
+    <configuration name="filefortest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Education-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filefortest" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Education-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework2_18_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Education-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2_18_09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Education-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Education-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework3" />
+        <item itemvalue="Python.newfile" />
+        <item itemvalue="Python.homework2_18_09" />
+        <item itemvalue="Python.filefortest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -34,5 +152,64 @@
       <updated>1599321908336</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="994" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600457896697">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="994" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.974@0.23.1680.974" timestamp="1600457896697" />
+    <state x="1136" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1004@0.23.1920.1004" timestamp="1599925600852" />
+    <state x="651" y="118" key="#homework2" timestamp="1600458148581">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="651" y="118" key="#homework2/0.23.1680.974@0.23.1680.974" timestamp="1600458148581" />
+    <state width="1597" height="154" key="GridCell.Tab.0.bottom" timestamp="1601420182787">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1597" height="154" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1601420182787" />
+    <state width="1597" height="154" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1601410175546" />
+    <state width="862" height="215" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1600531802674" />
+    <state width="1597" height="154" key="GridCell.Tab.0.center" timestamp="1601420182786">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1597" height="154" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1601420182786" />
+    <state width="1597" height="154" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1601410175545" />
+    <state width="862" height="215" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1600531802673" />
+    <state width="1597" height="154" key="GridCell.Tab.0.left" timestamp="1601420182786">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1597" height="154" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1601420182786" />
+    <state width="1597" height="154" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1601410175545" />
+    <state width="862" height="215" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1600531802672" />
+    <state width="1597" height="154" key="GridCell.Tab.0.right" timestamp="1601420182787">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1597" height="154" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1601420182787" />
+    <state width="1597" height="154" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1601410175546" />
+    <state width="862" height="215" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1600531802673" />
+    <state width="1597" height="186" key="GridCell.Tab.1.bottom" timestamp="1601410074689">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1597" height="186" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1601410074689" />
+    <state width="1231" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1600527806719" />
+    <state width="1597" height="186" key="GridCell.Tab.1.center" timestamp="1601410074688">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1597" height="186" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1601410074688" />
+    <state width="1231" height="303" key="GridCell.Tab.1.center/0.23.1920.1004@0.23.1920.1004" timestamp="1600527806718" />
+    <state width="1597" height="186" key="GridCell.Tab.1.left" timestamp="1601410074688">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1597" height="186" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1601410074688" />
+    <state width="1231" height="303" key="GridCell.Tab.1.left/0.23.1920.1004@0.23.1920.1004" timestamp="1600527806717" />
+    <state width="1597" height="186" key="GridCell.Tab.1.right" timestamp="1601410074688">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1597" height="186" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1601410074688" />
+    <state width="1231" height="303" key="GridCell.Tab.1.right/0.23.1920.1004@0.23.1920.1004" timestamp="1600527806718" />
+    <state x="1169" y="306" width="670" height="676" key="search.everywhere.popup" timestamp="1600521191002">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="1169" y="306" width="670" height="676" key="search.everywhere.popup/0.23.1920.1004@0.23.1920.1004" timestamp="1600521191002" />
   </component>
 </project>
