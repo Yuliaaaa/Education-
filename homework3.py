@@ -1,3 +1,4 @@
+#test
 # # 1
 a = input("Please write a text:")
 print(a[2], a[-2], a[:5], a[:-2], a[0::2], a[1::2], a[::-1], a[::-2], a[-1:0:-2], a[-2:0:-2], a[-2:0:-1], len(a), sep='\n')
