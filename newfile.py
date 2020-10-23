@@ -63,12 +63,12 @@
 # for x in ls:
 #     print (x)
 
-l = [10, 30, 2, 5, 21, 4]
-for item in l:
-    if item % 2 == 1:
-        print(item + 1)
-    else:
-        print(item)
+# l = [10, 30, 2, 5, 21, 4]
+# for item in l:
+#     if item % 2 == 1:
+#         print(item + 1)
+#     else:
+#         print(item)
 
 
 # l = [10, 30, 2, 5, 21, 4]
